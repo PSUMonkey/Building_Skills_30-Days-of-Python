@@ -1,4 +1,4 @@
-#Day 2: Variables
+#Day 1: Variables
 #08/30/2024
 
 #Level 1 Exercises

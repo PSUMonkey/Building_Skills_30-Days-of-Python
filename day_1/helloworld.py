@@ -1,3 +1,6 @@
+#Day 2: Variables
+#07/01/2024
+
 #import os library to run windows command-line commands
 import os
 
