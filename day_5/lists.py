@@ -1,4 +1,4 @@
-#Day 4: Lists
+#Day 5: Lists
 #09/13/2024
 
 empty_lists = [] #empty list
