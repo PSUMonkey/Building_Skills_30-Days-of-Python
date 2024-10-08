@@ -2923,8 +2923,6 @@ def level_3():
     print(top_keys)
 
 
-
-
 #level_1()
 #level_2()
 level_3()
