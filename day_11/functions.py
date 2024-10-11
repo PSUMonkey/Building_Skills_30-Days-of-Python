@@ -1,5 +1,5 @@
-#Day 10: Functions
-#10/07/2024
+#Day 11: Functions
+#10/07-08/2024
 
 passed_list_only_int = [4,1,7,23,90,54,47,2,24]
 passed_list_only_int_uneven = [4,1,7,23,90,54,47,2,24,34]
@@ -164,7 +164,6 @@ def exercise_1():
     print(sum_of_numbers(100))
     print(sum_of_odds(10))
     print(sum_of_evens(10))
-
 
 def exercise_2():
     print(evens_and_odds(43))
